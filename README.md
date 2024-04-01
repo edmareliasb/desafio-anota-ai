@@ -8,6 +8,8 @@
 
 This project is an API built using **Java, Java Spring, AWS Simple Network Service, AWS Simple Queue Service, AWS Lambda, AWS Simple Storage Service and MongoDB.**
 
+The challenge details might be viewed on the following repository: https://github.com/githubanotaai/new-test-backend-nodejs
+
 ## Table of Contents
 
 - [Installation](#installation)
