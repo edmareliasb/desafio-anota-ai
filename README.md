@@ -13,8 +13,6 @@ This project is an API built using **Java, Java Spring, AWS Simple Network Servi
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Database](#database)
-- [Contributing](#contributing)
 
 - ## Installation
 
